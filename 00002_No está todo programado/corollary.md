@@ -1,1 +1,0 @@
-¡Exacto! Ninguno de estos se puede resolver utilizando programación. Diremos que la programación nos puede ayudar con aquellos problemas que pueden representarse en términos de una secuencia conocida y ordenada de pasos. :clipboard:

@@ -1,0 +1,1 @@
+Exactly! Although programming is a great tool, none of these problems can be solved using it. We will say that programming can help us only with situations that can be represented in terms of a known and ordered sequence of steps. :clipboard:

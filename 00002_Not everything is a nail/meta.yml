@@ -10,15 +10,15 @@ teacher_info: ''
 manual_evaluation: false
 choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Resolver una discusión.
+  value: Resolve an argument.
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Determinar si un cuadro es bello.
+  value: Determining if a painting is beautiful.
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Empatizar con otras personas.
+  value: Empathize with other people.
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Ninguno de los anteriores.
+  value: None of the above.
   checked: true
-name: No está todo programado
+name: Not everything is a nail
