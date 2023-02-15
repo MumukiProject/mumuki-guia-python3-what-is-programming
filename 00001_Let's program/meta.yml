@@ -30,4 +30,4 @@ choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: Conducir un robot en Marte.
   checked: true
-name: Vamos programando
+name: Let's program

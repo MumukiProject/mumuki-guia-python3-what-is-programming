@@ -1,4 +1,3 @@
-Te damos la bienvenida al mundo de la programación :grin:. En esta lección vamos a dar respuesta a _¿Qué es la programación?_ y  otras preguntas que quizás no sabías que tenías. :open_hands:
+Welcome to the world of programming :grin:. In this lesson we are going to answer _What is programming?_ and other questions that you may not know you had. :open_hands:
 
-¡Comencemos! :muscle:
-
+Let's get started! :muscle:
