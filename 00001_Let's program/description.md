@@ -1,7 +1,7 @@
-Aunque la programación parece una ciencia exacta, **programar es el arte de hacer que una computadora resuelva nuestros problemas**.
+Although programming seems like an exact science, **programming is the art of making a computer solve our problems**.
 
-Momento... ¿arte? :scream: ¡Sí! Hay muchas formas de resolver un problema y encontrarlas es un proceso creativo :bulb:. El resultado de este proceso es un _programa_: una descripción de la solución al problema que puede ser _ejecutada_ por una computadora.
+Wait... art? :scream: Yes! There are many ways to solve a problem and finding them is a creative process :bulb:. The result of this process is a _program_: a description of a solution that can be _executed_ by a computer.
 
-Saber programar nos da un gran poder: en lugar de hacer tareas repetitivas y tediosas, **usaremos nuestros conocimientos e imaginación para automatizarlas** (por suerte, la computadora no se aburre :wink:).
+Knowing how to program gives us great power: instead of doing repetitive and tedious tasks, **we will use our knowledge and imagination to automate them** - luckily, the computer doesn't get bored :wink:.
 
-> ¿Cuáles de estos problemas crees que se pueden resolver con programación?
+> Which of these problems do you think can be solved with programming?

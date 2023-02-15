@@ -1,2 +1,1 @@
-¡Sí! Todos estos problemas se pueden resolver programando. También agendar una reunión, conocer nuestro pasado a través de nuestros genes, escuchar nuestra banda favorita y muchísimos más. :exploding_head:
-
+Yeah! All these problems can be solved by programming. Also scheduling a meeting, learning about our past through our genes, listening to our favorite band and many more. :exploding_head:

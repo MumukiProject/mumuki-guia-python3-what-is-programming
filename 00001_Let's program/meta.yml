@@ -10,24 +10,24 @@ teacher_info: ''
 manual_evaluation: false
 choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: La contabilidad de una empresa.
+  value: The accounting of a company.
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: La reserva de un turno.
+  value: The reservation of a table in a restaurant.
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Corregir un examen.
+  value: The correction of an exam.
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: La creación de un videojuego.
+  value: The development of a video game.
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Realizar videollamadas.
+  value: Making video calls.
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Reconocer imágenes.
+  value: Recognizing images.
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Conducir un robot en Marte.
+  value: Driving a robot on Mars.
   checked: true
 name: Let's program
