@@ -27,4 +27,4 @@ choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: Cajero automático.
   checked: true
-name: "¿Esto también es una computadora?"
+name: Is this also a computer?
