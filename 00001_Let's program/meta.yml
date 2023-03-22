@@ -29,6 +29,6 @@ choices:
   value: Recognizing images.
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Driving a robot on Mars.
+  value: Controlling a robot on Mars.
   checked: true
 name: Let's program
