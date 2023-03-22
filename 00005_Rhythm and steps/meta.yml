@@ -11,18 +11,18 @@ manual_evaluation: false
 progressive_expectations: false
 choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Una receta de cocina.
+  value: A cooking recipe.
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Las instrucciones para hacer un origami.
+  value: The instructions for an origami.
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Los pasos para resolver un cubo Rubik.
+  value: The steps to solving a Rubik's Cube.
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: La lógica que siguen las redes sociales para sugerirte contactos.
+  value: The logic social networks follow to suggest contacts.
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Todas las anteriores.
+  value: All of the above options.
   checked: true
-name: Algo con ritmo
+name: Rhythm and steps

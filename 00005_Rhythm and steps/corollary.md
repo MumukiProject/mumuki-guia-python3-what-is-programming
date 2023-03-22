@@ -1,0 +1,1 @@
+Exactly! :raised_hands: Although it's a term we've associated with programming lately, algorithms aren't exclusive to it. :eyes:
