@@ -1,0 +1,8 @@
+- name: The steps were ordered correctly
+  keys:
+    first_step: 
+      equal: "Start with a circle. This will be the center of the flower."
+    second_step: 
+      equal: "Draw circles of the same size around the center, glued together. These will be the petals."
+    third_step: 
+      equal: "Draw the stem connected to one of the petals."
