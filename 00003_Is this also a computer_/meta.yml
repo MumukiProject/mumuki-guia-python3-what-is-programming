@@ -11,21 +11,21 @@ manual_evaluation: false
 progressive_expectations: false
 choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Licuadora antigua.
+  value: Old mixer.
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Consola de videojuegos.
+  value: Video game console.
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Navegador GPS.
+  value: A GPS navigation device.
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Teléfono celular.
+  value: A cell phone.
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Una mesa de madera.
+  value: A wooden table.
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Cajero automático.
+  value: An ATM.
   checked: true
 name: Is this also a computer?

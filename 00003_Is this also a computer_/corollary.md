@@ -1,1 +1,1 @@
-¡Perfecto! :ok_hand: Aunque todos estos dispositivos son computadoras no tienen los mismos objetivos ni sirven para resolver los mismos problemas. 
+Perfect! :ok_hand: Although all the selected devices are computers, they don't have the same goals or serve to solve the same problems.
