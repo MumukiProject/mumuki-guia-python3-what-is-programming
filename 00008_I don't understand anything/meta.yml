@@ -11,19 +11,19 @@ manual_evaluation: false
 progressive_expectations: false
 choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "```python\ndef doble(número):\n  return número * 2     \n```\n"
+  value: "```python\ndef double(numbr):\n  return numbr * 2\t \n```"
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: |
+  value: |-
     ```python
-    def doble(numero):
-      return numero + numero
+    def double(number):
+      return number + number
     ```
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "```python\ndef doble(numero):\n  return numero * 2     \n```\n"
+  value: "```python\ndef double(number):\n  return number * 2\t \n```"
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "```python\ndef doble(numero)\n  return numero * 2     \n```\n"
+  value: "```python\ndef double(number)\n  return number * 2\t \n```"
   checked: false
-name: No te entiendo nada
+name: I don't understand anything
