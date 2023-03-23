@@ -17,7 +17,7 @@ choices:
   value: Hello, how are you doing?
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: hello how are you doin
+  value: hello how you are doin
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: Hello, vow are you doing?
