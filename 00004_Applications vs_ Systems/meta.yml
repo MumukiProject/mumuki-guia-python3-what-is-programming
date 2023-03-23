@@ -11,7 +11,7 @@ manual_evaluation: false
 progressive_expectations: false
 choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "[Notepad](https://en.wikipedia.org/wiki/Notepad)"
+  value: "[Notepad](https://en.wikipedia.org/wiki/Windows_Notepad)"
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: "[Instagram](https://www.instagram.com)"
@@ -23,7 +23,7 @@ choices:
   value: "[Airbnb](https://www.airbnb.com)"
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "[Mines](https://en.wikipedia.org/wiki/Mines)"
+  value: "[Mines](https://en.wikipedia.org/wiki/Minesweeper_(video_game))"
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: "[Fortnite](https://www.fortnite.com)"
@@ -32,7 +32,7 @@ choices:
   value: "[Minecraft](https://www.minecraft.net)"
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "[Solitary](https://en.wikipedia.org/wiki/Solitary_Microsoft)"
+  value: "[Solitaire](https://en.wikipedia.org/wiki/Solitaire)"
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: "[Mumuki](https://mumuki.io/home)"
