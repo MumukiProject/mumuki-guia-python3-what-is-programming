@@ -32,7 +32,7 @@ choices:
   value: "[Minecraft](https://www.minecraft.net)"
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "[Solitaire](https://en.wikipedia.org/wiki/Solitaire)"
+  value: "[Solitaire](https://en.wikipedia.org/wiki/Microsoft_Solitaire)"
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: "[Mumuki](https://mumuki.io/home)"
