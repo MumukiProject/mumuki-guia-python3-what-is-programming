@@ -11,7 +11,7 @@ manual_evaluation: false
 progressive_expectations: false
 choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "```ruby\ndef greet(name)\n  \"Hello \" + name\t          \nend\n```"
+  value: "```ruby\ndef greet(name)\n  \"Hello \" + name\t         \nend\n```"
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: "```javascript\nfunction greet(name) {\n  return \"Hello \" + name;    \n}\n```"
