@@ -1,4 +1,4 @@
-In order to write code conveniently, we need a tool called a code editor. It's very similar to a text editor, but it's not suitable for writing poems, resumes, or school assignments. We won't use it to correct our spelling or to underline, bold or change colors of texts, but to create programs :star_struck:
+In order to write code conveniently, we need a tool called a _code editor_. It's very similar to a text editor, but it's not suitable for writing poems, resumes, or school assignments. We won't use it to correct our spelling or to underline, bold or change colors of texts, but to create programs :star_struck:
 
 Many of these code editors (or just editors, as of now) can be installed on your own computer. Some of them are:
 
