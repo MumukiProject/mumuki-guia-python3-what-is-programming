@@ -2,7 +2,7 @@
 locale: en
 tags: []
 layout: input_bottom
-editor: multiple_choice
+editor: single_choice
 type: problem
 extra_visible: false
 language: text
