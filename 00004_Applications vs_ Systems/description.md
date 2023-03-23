@@ -1,4 +1,4 @@
-_Applications vs. systems? No, we're not talking about a new Hollywood blockbuster here_ :movie_camera:
+_Applications vs. Systems? No, we're not talking about a new Hollywood blockbuster here_ :movie_camera:
 
 Although we often use the term _App_ to talk about both a :heavy_division_sign: calculator and a :busts_in_silhouette: social network, we're not talking about the same thing:
 
