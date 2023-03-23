@@ -5,7 +5,7 @@ def double(number):
 	return number * 2
 ```
 
-is not the same as:
+...is not the same as:
 
 ```python
 def double(number):
