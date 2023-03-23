@@ -1,4 +1,4 @@
-We have just seen that sentences, phrases or paragraphs written in a natural language should conform to certain syntactic rules. But what happens when we write code, i.e. commands for a computer, written in a formal language? :thinking: Then we have to follow their rules too!
+We have just seen that sentences, phrases or paragraphs written in a natural language should conform to certain syntactic rules. But what happens when we write code - commands for a computer, written in a formal language? :thinking: Then we have to follow their rules too!
 
 
 For example, the following code...
