@@ -4,7 +4,6 @@ Many of these code editors (or just editors, as of now) can be installed on your
 
 * [Sublime](https://www.sublimetext.com/);
 * [Visual Studio Code](https://code.visualstudio.com/);
-* [Atom](https://atom.io/);
 * [Vim](https://www.vim.org/).
 
 For developing more complex applications and systems, there are even more comprehensive (and complex! :sweat:) tools known as Integrated Development Environments (_IDEs_). One of the most popular is [PyCharm](https://www.jetbrains.com/en-us/pycharm/). There are also online _IDEs like [Colaboratory](https://colab.research.google.com/) and [Jupyter](https://jupyter.org/), for which we don't need to download them to our computer :muscle:
