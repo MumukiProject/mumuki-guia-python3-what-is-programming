@@ -10,4 +10,4 @@ For developing more complex applications and systems, there are even more compre
 
 But don't worry, for our first steps we don't need to install anything yet: Mumuki already provides you with an online code editor :globe_with_meridians:
 
-> Now it's your turn: Write in Mumuki's code editor `I want to start programming now`.
+> Now it's your turn: write in Mumuki's code editor `I want to start programming now`.
