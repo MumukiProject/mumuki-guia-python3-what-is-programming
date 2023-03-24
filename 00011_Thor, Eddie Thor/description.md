@@ -6,7 +6,7 @@ Many of these code editors (or just editors, as of now) can be installed on your
 * [Visual Studio Code](https://code.visualstudio.com/);
 * [Vim](https://www.vim.org/).
 
-For developing more complex applications and systems, there are even more comprehensive (and complex! :sweat:) tools known as Integrated Development Environments (_IDEs_). One of the most popular is [PyCharm](https://www.jetbrains.com/en-us/pycharm/). There are also online _IDEs like [Colaboratory](https://colab.research.google.com/) and [Jupyter](https://jupyter.org/), for which we don't need to download them to our computer :muscle:
+For developing more complex applications and systems, there are even more comprehensive (and complex! :sweat:) tools known as Integrated Development Environments (_IDEs_). One of the most popular is [PyCharm](https://www.jetbrains.com/en-us/pycharm/). There are also online _IDEs_ like [Colaboratory](https://colab.research.google.com/) and [Jupyter](https://jupyter.org/), for which we don't need to download them to our computer :muscle:
 
 But don't worry, for our first steps we don't need to install anything yet: Mumuki already provides you with an online code editor :globe_with_meridians:
 
