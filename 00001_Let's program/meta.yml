@@ -10,25 +10,18 @@ teacher_info: ''
 manual_evaluation: false
 progressive_expectations: false
 choices:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: The accounting of a company.
+- value: The accounting of a company.
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: The reservation of a table in a restaurant.
+- value: The reservation of a table in a restaurant.
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: The correction of an exam.
+- value: The correction of an exam.
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: The development of a video game.
+- value: The development of a video game.
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Making video calls.
+- value: Making video calls.
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Recognizing images.
+- value: Recognizing images.
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Controlling a robot on Mars.
+- value: Controlling a robot on Mars.
   checked: true
 name: Let's program

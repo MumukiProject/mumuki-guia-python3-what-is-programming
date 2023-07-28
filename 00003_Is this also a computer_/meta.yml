@@ -10,22 +10,16 @@ teacher_info: ''
 manual_evaluation: false
 progressive_expectations: false
 choices:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Old mixer.
+- value: Old mixer.
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Video game console.
+- value: Video game console.
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: A GPS navigation device.
+- value: A GPS navigation device.
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: A cell phone.
+- value: A cell phone.
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: A wooden table.
+- value: A wooden table.
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: An ATM.
+- value: An ATM.
   checked: true
 name: Is this also a computer?

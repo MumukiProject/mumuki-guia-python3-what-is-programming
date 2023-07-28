@@ -10,16 +10,12 @@ teacher_info: ''
 manual_evaluation: false
 progressive_expectations: false
 choices:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Settling an argument.
+- value: Settling an argument.
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Determining if a painting is beautiful.
+- value: Determining if a painting is beautiful.
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Empathize with other people.
+- value: Empathize with other people.
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: None of the above options.
+- value: None of the above options.
   checked: true
 name: Not everything is a nail

@@ -10,19 +10,14 @@ teacher_info: ''
 manual_evaluation: false
 progressive_expectations: false
 choices:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Whazzup?
+- value: Whazzup?
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Hello, how are you doing?
+- value: Hello, how are you doing?
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: hello how you are doin
+- value: hello how you are doin
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Hello, vow are you doing?
+- value: Hello, vow are you doing?
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: hi whts up
+- value: hi whts up
   checked: false
 name: What are you saying?

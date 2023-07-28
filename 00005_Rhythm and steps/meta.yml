@@ -10,19 +10,14 @@ teacher_info: ''
 manual_evaluation: false
 progressive_expectations: false
 choices:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: A cooking recipe.
+- value: A cooking recipe.
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: The instructions for an origami.
+- value: The instructions for an origami.
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: The steps to solving a Rubik's Cube.
+- value: The steps to solving a Rubik's Cube.
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: The logic social networks follow to suggest contacts.
+- value: The logic social networks follow to suggest contacts.
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: All of the above options.
+- value: All of the above options.
   checked: true
 name: Rhythm and steps
